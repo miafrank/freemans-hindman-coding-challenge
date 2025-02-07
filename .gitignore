@@ -1,0 +1,10 @@
+.pytest_cache
+*.pyc
+.vscode
+.DS_Store
+
+Pipfile.lock
+
+Freemans Hindman - Coding Challenge.pdf
+
+notes.md
